@@ -1,0 +1,18 @@
+[submodule "openmpf"]
+	path = openmpf
+	url = git@github.com:openmpf/openmpf.git
+[submodule "openmpf-cpp-component-sdk"]
+	path = openmpf-cpp-component-sdk
+	url = git@github.com:openmpf/openmpf-cpp-component-sdk.git
+[submodule "openmpf-java-component-sdk"]
+	path = openmpf-java-component-sdk
+	url = git@github.com:openmpf/openmpf-java-component-sdk.git
+[submodule "openmpf-build-tools"]
+	path = openmpf-build-tools
+	url = git@github.com:openmpf/openmpf-build-tools.git
+[submodule "openmpf-components"]
+	path = openmpf-components
+	url = git@github.com:openmpf/openmpf-components.git
+[submodule "openmpf-contrib-components"]
+	path = openmpf-contrib-components
+	url = git@github.com:openmpf/openmpf-contrib-components.git

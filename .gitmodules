@@ -7,6 +7,9 @@
 [submodule "openmpf-java-component-sdk"]
 	path = openmpf-java-component-sdk
 	url = https://github.com/openmpf/openmpf-java-component-sdk
+[submodule "openmpf-python-component-sdk"]
+	path = openmpf-python-component-sdk
+	url = https://github.com/openmpf/openmpf-python-component-sdk
 [submodule "openmpf-build-tools"]
 	path = openmpf-build-tools
 	url = https://github.com/openmpf/openmpf-build-tools

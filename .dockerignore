@@ -32,7 +32,5 @@
 **/*.iml
 **/openmpf/trunk/install
 
-openmpf-components/cpp
-openmpf-components/python
+openmpf-components
 openmpf-contrib-components
-

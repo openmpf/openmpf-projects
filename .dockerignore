@@ -31,6 +31,7 @@
 **/build
 **/*.iml
 **/openmpf/trunk/install
+.dockerignore
 
 openmpf-components
 openmpf-contrib-components

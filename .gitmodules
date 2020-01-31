@@ -19,3 +19,6 @@
 [submodule "openmpf-contrib-components"]
 	path = openmpf-contrib-components
 	url = https://github.com/openmpf/openmpf-contrib-components
+[submodule "openmpf-python-component-sdk"]
+	path = openmpf-python-component-sdk
+	url = https://github.com/openmpf/openmpf-python-component-sdk

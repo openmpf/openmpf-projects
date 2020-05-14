@@ -33,5 +33,6 @@
 **/openmpf/trunk/install
 .dockerignore
 
+openmpf-docker
 openmpf-components
 openmpf-contrib-components

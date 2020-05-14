@@ -32,6 +32,8 @@
 **/*.iml
 **/openmpf/trunk/install
 .dockerignore
+# Jenkins temporary files.
+**/*@tmp
 
 openmpf-docker
 openmpf-components

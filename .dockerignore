@@ -33,6 +33,9 @@
 **/openmpf/trunk/install
 **/mpf-private.properties
 .dockerignore
+# Jenkins temporary files.
+**/*@tmp
 
+openmpf-docker
 openmpf-components
 openmpf-contrib-components

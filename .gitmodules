@@ -19,3 +19,6 @@
 [submodule "openmpf-contrib-components"]
 	path = openmpf-contrib-components
 	url = https://github.com/openmpf/openmpf-contrib-components
+[submodule "openmpf-docker"]
+	path = openmpf-docker
+	url = https://github.com/openmpf/openmpf-docker

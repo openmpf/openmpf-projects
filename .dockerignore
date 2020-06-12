@@ -33,6 +33,11 @@
 **/openmpf/trunk/install
 **/mpf-private.properties
 .dockerignore
+**/*.pyc
+**/__pycache__
+**/.mypy_cache
+**/*.egg-info
+
 # Jenkins temporary files.
 **/*@tmp
 

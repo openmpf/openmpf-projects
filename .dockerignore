@@ -42,6 +42,7 @@
 **/*@tmp
 
 openmpf-docker
-!openmpf-docker/openmpf_build/scripts
+!openmpf-docker/openmpf_build
+openmpf-docker/openmpf_build/Dockerfile
 openmpf-components
 openmpf-contrib-components

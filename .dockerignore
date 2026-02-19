@@ -42,7 +42,7 @@
 **/*@tmp
 
 openmpf-docker
-!openmpf-docker/openmpf_build
-openmpf-docker/openmpf_build/Dockerfile
+!openmpf-docker/openmpf_build/scripts
+!openmpf-docker/openmpf_build/noto-emoji-font
 openmpf-components
 openmpf-contrib-components

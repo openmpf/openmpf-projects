@@ -1,24 +1,24 @@
 [submodule "openmpf"]
 	path = openmpf
-	url = https://github.com/openmpf/openmpf
+	url = ../openmpf
 [submodule "openmpf-cpp-component-sdk"]
 	path = openmpf-cpp-component-sdk
-	url = https://github.com/openmpf/openmpf-cpp-component-sdk
+	url = ../openmpf-cpp-component-sdk
 [submodule "openmpf-java-component-sdk"]
 	path = openmpf-java-component-sdk
-	url = https://github.com/openmpf/openmpf-java-component-sdk
+	url = ../openmpf-java-component-sdk
 [submodule "openmpf-python-component-sdk"]
 	path = openmpf-python-component-sdk
-	url = https://github.com/openmpf/openmpf-python-component-sdk
+	url = ../openmpf-python-component-sdk
 [submodule "openmpf-build-tools"]
 	path = openmpf-build-tools
-	url = https://github.com/openmpf/openmpf-build-tools
+	url = ../openmpf-build-tools
 [submodule "openmpf-components"]
 	path = openmpf-components
-	url = https://github.com/openmpf/openmpf-components
+	url = ../openmpf-components
 [submodule "openmpf-contrib-components"]
 	path = openmpf-contrib-components
-	url = https://github.com/openmpf/openmpf-contrib-components
+	url = ../openmpf-contrib-components
 [submodule "openmpf-docker"]
 	path = openmpf-docker
-	url = https://github.com/openmpf/openmpf-docker
+	url = ../openmpf-docker
